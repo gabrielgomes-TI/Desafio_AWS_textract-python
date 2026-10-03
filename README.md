@@ -57,15 +57,15 @@ if __name__ == "__main__":
 
 ## 📸 Demonstração do Serviço na AWS
 
-Abaixo estão os registros do Amazon Textract analisando os documentos:
+Abaixo estão os registros visuais do ecossistema e das ferramentas utilizadas:
 
-### 1. Extração de Texto Puro (Raw Text)
-O serviço mapeia e digitaliza cada linha de texto com precisão cirúrgica.
-![Extração de Texto Puro](https://githubusercontent.com)
+### 1. Integração com Python e AWS
+Utilização do SDK oficial para conexão direta com as soluções de Inteligência Artificial da AWS.
+![Logo da AWS e Boto3](https://githubusercontent.com)
 
-### 2. Reconhecimento de Tabelas e Formulários (Key-Value Pairs)
-A IA identifica a estrutura de tabelas complexas, separando os dados por colunas e linhas automaticamente.
-![Mapeamento de Tabelas](https://githubusercontent.com)
+### 2. Reconhecimento Avançado de Documentos
+A IA mapeia os dados organizando as estruturas de texto linha por linha de maneira totalmente automatizada.
+![Exemplo de Interface AWS](https://githubusercontent.com)
 
 ---
 ⭐ Desenvolvido por um Embaixador DIO! Compartilhando conhecimento de Monteiro-PB para o mundo.
