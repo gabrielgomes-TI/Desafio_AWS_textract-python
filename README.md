@@ -1,0 +1,1 @@
+# Desafio_AWS_textract-python
